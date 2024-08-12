@@ -7,3 +7,7 @@ Assignment_1
 Assignment_2
 [Part1](/Class_Notes/HTML/Assignment_2/Part_1/index.html)
 [Part2](/Class_Notes/HTML/Assignment_2/Part_2/blank-template.html)
+
+Assignment_3
+[Part1](Class_Notes/HTML/Assignment_3/Part_1/biog-download.html)
+[Part2](Class_Notes/HTML/Assignment_3/Part_2/index.html)
