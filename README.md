@@ -11,3 +11,9 @@ Assignment_2
 Assignment_3
 [Part1](Class_Notes/HTML/Assignment_3/Part_1/biog-download.html)
 [Part2](Class_Notes/HTML/Assignment_3/Part_2/index.html)
+
+Assignment_4
+[Part1](Class_Notes/HTML/Assignment_4/Part_1/index.html)
+[Part2](Class_Notes/HTML/Assignment_4/Part_2/index.html)
+[Part3](Class_Notes/HTML/Assignment_4/Part_3/index.html)
+[Part4](Class_Notes/HTML/Assignment_4/Part_4/index-finished.html)
